@@ -8,6 +8,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/gio25k/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/gio25k/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gio25k/configure-ad)
+  - [Setup for Active Directory Infastructure](https://github.com/gio25k/Active-directory)
 <h2>🤳Connect with me:</h2>
 
